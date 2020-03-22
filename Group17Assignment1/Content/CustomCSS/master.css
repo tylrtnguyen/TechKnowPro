@@ -1,0 +1,63 @@
+﻿html, body {
+    height: 100%;
+    width: 100%;
+}
+
+.navbar {
+    padding: 1% 0;
+}
+
+#home {
+    background: url(MainBanner.jpg) no-repeat center center fixed;
+    display: table;
+    height: 100%;
+    position: fixed;
+    width: 100%;
+    background-size: cover;
+}
+
+.landing-text {
+    margin: 15% 15%;
+}
+
+.landing-text h1 {
+        font-size: 500%;
+        font-weight: 700;
+        color: #fff;
+    }
+
+.landing-text h2 {
+        font-size: 200%;
+        font-weight: 300;
+        color: #fff;
+    }
+
+.radioButtonList label {
+    margin: 5px 10px;
+    padding: 5px;
+    display: inline;
+}
+
+.lbl {
+    float: left;
+}
+
+.lblTechEfficiency {
+    padding-right: 40px;
+}
+
+.lblResponseTime {
+    padding-right: 37px;
+}
+
+.lblProbResolution {
+    padding-right: 5px;
+}
+
+.customerComment {
+    margin-top: 1px;
+}
+
+.customerComment .lblComment {
+    padding-right: 5px;
+}
